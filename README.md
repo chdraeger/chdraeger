@@ -1,4 +1,4 @@
-# Hi, I'm Christina Draeger 👋
+## Hi, I'm Christina 👋
 
 I am a **Postdoctoral Researcher** at the **Urban Predictive Analytics Lab** at the **University of British Columbia** in Vancouver, BC, Canada.
 
